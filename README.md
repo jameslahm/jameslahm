@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       8 hrs 6 mins    ███████████░░░░░░░░░░░░░░   43.75 % 
-JavaScript   3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-GraphQL      3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Python       2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Vue.js       8 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.54 % 
+JavaScript   3 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+GraphQL      3 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Python       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 <!--END_SECTION:waka-->

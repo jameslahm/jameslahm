@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 12 mins  █████████▒░░░░░░░░░░░░░░░   37.30 % 
-Rust         8 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 % 
-JavaScript   6 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 % 
-Other        1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-GraphQL      48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript   12 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.24 % 
+Rust         8 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+JavaScript   6 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Other        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JSON         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->

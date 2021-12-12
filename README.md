@@ -4,8 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   18 mins         ████████████▓░░░░░░░░░░░░   51.11 % 
-TypeScript   15 mins         ███████████░░░░░░░░░░░░░░   43.60 % 
-GraphQL      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JavaScript   18 mins         ████████████████████████▓   99.19 % 
 ```
 <!--END_SECTION:waka-->

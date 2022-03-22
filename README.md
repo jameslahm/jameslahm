@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++                        27 hrs 11 mins  ██████████████████▒░░░░░░   72.91 %
-JavaScript                 5 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Other                      2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+C++                        28 hrs 34 mins  ██████████████████▓░░░░░░   74.08 %
+JavaScript                 5 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Other                      2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->

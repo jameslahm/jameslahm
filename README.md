@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        0 secs          █████████████████████▒░░░   85.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

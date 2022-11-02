@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C       3 mins          ████████████████▒░░░░░░░░   65.53 %
-CMake   1 min           ████████▓░░░░░░░░░░░░░░░░   34.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
